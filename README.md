@@ -6,4 +6,4 @@ This repository contains the **quantitative analyses** of that sample: CART, ran
 
 ## Data are avaialble by request. 
 
-If you are interested, please contact Nicholas A. Lester at nicholas**DOT**andrew**DOT**lester**AT**gmail**DOT**com.
+If you are interested, please contact Nicholas A. Lester at nicholas**DOT**a**DOT**lester**AT**gmail**DOT**com.
