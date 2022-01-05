@@ -5,11 +5,13 @@ Nicholas Lester
 
 # 
 
-Revised analysis for counterfactual conditionals for
+Revised analysis for counterfactual conditionals for  
+
 – restricted sample
 – full sample
   
-...using
+...using  
+
 – random forests
 – CART
 – DCA
