@@ -6,9 +6,8 @@ Nicholas Lester
 # 
 
 Revised analysis for counterfactual conditionals for  
-
-  – restricted sample
-  – full sample
+– restricted sample
+– full sample
   
 ...using  
 
